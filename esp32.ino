@@ -6,7 +6,7 @@
 // WiFi credentials
 const char* ssid = "Rhutika";
 const char* password = "12345678";
-const char* serverURL = "https://backend-4ml0.onrender.com";
+const char* serverURL = "https://final-backend-35fg.onrender.com";
 
 // Pins and sensors
 #define DHTPIN 13 // GPIO pin connected to the DHT22
